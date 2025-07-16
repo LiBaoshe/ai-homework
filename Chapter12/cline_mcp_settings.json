@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "weather": {
+      "disable": false,
+      "timeout": 60,
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "F:\\projects\\AI\\deepseek-quickstart\\mcp\\weather",
+        "run", 
+        "weather.py"
+      ]
+    },
+    "mcp_tool": {
+      "disable": false,
+      "timeout": 60,
+      "type": "sse",
+      "url": "https://mcp.api-inference.modelscope.net/cce84d71496a4e/sse"
+    },
+    "12306-mcp": {
+      "disable": false,
+      "timeout": 60,
+      "type": "sse",
+      "url": "https://mcp.api-inference.modelscope.net/f1f1b9a514504f/sse"
+    }
+  }
+}
