@@ -14,5 +14,6 @@
 <img width="1813" height="1025" alt="image" src="https://github.com/user-attachments/assets/e6a806ac-d945-4859-a3df-af53ae3bc300" />  
 
 ### 创建AI行政助理应用  
+<img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/295a50be-a857-4cc6-bd79-76c624466dd0" />  
 
 ## FastGPT 私有化部署
