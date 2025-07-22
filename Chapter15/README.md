@@ -5,11 +5,14 @@
 ## 在线版雪茄百科
 ### 创建雪茄知识库  
 <img width="1818" height="1050" alt="image" src="https://github.com/user-attachments/assets/cea16d35-0aa5-4780-a325-e0309c0931de" />  
+
 ### 创建雪茄百科问答应用  
 <img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/d90029e4-8879-4562-8206-b9419ff13ae5" />  
+
 ## AI行政助理应用
 ### 创建公司手串知识库  
 <img width="1813" height="1025" alt="image" src="https://github.com/user-attachments/assets/e6a806ac-d945-4859-a3df-af53ae3bc300" />  
+
 ### 创建AI行政助理应用  
 
 ## FastGPT 私有化部署
