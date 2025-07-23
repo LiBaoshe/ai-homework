@@ -16,4 +16,24 @@
 ### 创建AI行政助理应用  
 <img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/295a50be-a857-4cc6-bd79-76c624466dd0" />  
 
-## FastGPT 私有化部署
+## FastGPT 私有化部署  
+### 使用docker-compose安装运行FastGPT  
+创建fastgpt目录，下载配置文件：  
+mkdir fastgpt  
+cd fastgpt  
+curl -O https://raw.githubusercontent.com/labring/FastGPT/main/projects/app/data/config.json  
+curl -o docker-compose.yml https://raw.githubusercontent.com/labring/FastGPT/main/deploy/docker/docker-compose-pgvector.yml  
+修改相关配置后，启动docker：  
+docker-compose up -d  
+运行如图：  
+<img width="2547" height="634" alt="image" src="https://github.com/user-attachments/assets/abb895a5-13a1-4ef9-994e-728a215c8b20" />  
+### 访问私有FastGPT，配置模型  
+模型渠道：  
+<img width="1955" height="625" alt="image" src="https://github.com/user-attachments/assets/e54b2fde-c3c4-4906-b95c-3c315d7b89df" />  
+调用日志：  
+<img width="1935" height="1185" alt="image" src="https://github.com/user-attachments/assets/bfff8e0c-cd0c-4a60-939d-ada4037db06c" />  
+模型配置：  
+<img width="1941" height="1303" alt="image" src="https://github.com/user-attachments/assets/02392ca2-fac9-4da8-a044-b80435c33326" />  
+可用模型：  
+<img width="1953" height="1155" alt="image" src="https://github.com/user-attachments/assets/21ab9761-1cd1-426b-9eee-5e561e5aac57" />  
+
