@@ -10,6 +10,7 @@
 <img width="1777" height="965" alt="image" src="https://github.com/user-attachments/assets/f1a83568-4aff-4a18-8c6c-07cd3da8aa52" />  
 
 ## 电商专业客服 RAG（云檀·老山檀手串）  
+相关资料：[文玩手串数据库.sql](https://github.com/LiBaoshe/ai-homework/blob/master/Chapter16/%E6%96%87%E7%8E%A9%E6%89%8B%E4%B8%B2%E6%95%B0%E6%8D%AE%E5%BA%93.sql)，[售前咨询.docx](https://github.com/LiBaoshe/ai-homework/blob/master/Chapter16/%E5%94%AE%E5%89%8D%E5%92%A8%E8%AF%A2.docx)，[产品售后.docx](https://github.com/LiBaoshe/ai-homework/blob/master/Chapter16/%E4%BA%A7%E5%93%81%E5%94%AE%E5%90%8E.docx)
 ### 工作流  
 <img width="3061" height="2088" alt="image" src="https://github.com/user-attachments/assets/9028233b-2e8b-4c97-aa68-f8e1bdb268b3" />  
 
