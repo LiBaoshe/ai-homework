@@ -25,4 +25,16 @@
 
 <img width="3061" height="2088" alt="image" src="https://github.com/user-attachments/assets/97f510eb-54b7-4079-ac77-18fe209c766e" />  
 
-## 飞书机器人
+## 飞书机器人  
+### 应用接入飞书机器人  
+<img width="1986" height="894" alt="image" src="https://github.com/user-attachments/assets/612ec4e7-db5d-40fd-b3dd-8d30d42cbf5e" />  
+
+<img width="1986" height="1518" alt="image" src="https://github.com/user-attachments/assets/63a5ee64-58a5-4dc2-a579-4b2ce0c10297" />  
+
+### 聊天记录
+<img width="2142" height="1513" alt="image" src="https://github.com/user-attachments/assets/242bf9b9-3255-4340-b6fe-a5f779b1b995" />  
+
+<img width="2142" height="1513" alt="image" src="https://github.com/user-attachments/assets/52869ab8-4a0a-423a-ae60-2292ae4ae30c" />
+
+
+
