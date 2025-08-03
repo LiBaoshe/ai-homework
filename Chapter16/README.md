@@ -5,8 +5,10 @@
 ## AI 行政助理 Pro  
 ### 工作流  
 <img width="3064" height="2088" alt="image" src="https://github.com/user-attachments/assets/16a79067-32a0-4122-9ab3-545673d8133e" />  
+
 ### 邮件发送成功  
 <img width="1777" height="965" alt="image" src="https://github.com/user-attachments/assets/f1a83568-4aff-4a18-8c6c-07cd3da8aa52" />  
+
 ## 电商专业客服 RAG  
 
 ## 飞书机器人
