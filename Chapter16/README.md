@@ -7,6 +7,8 @@
 <img width="3064" height="2088" alt="image" src="https://github.com/user-attachments/assets/16a79067-32a0-4122-9ab3-545673d8133e" />  
 
 ### 邮件发送成功  
+<img width="1992" height="1285" alt="image" src="https://github.com/user-attachments/assets/f469ae9e-e0ab-40bf-a5b6-475d9943ea6a" />  
+
 <img width="1777" height="965" alt="image" src="https://github.com/user-attachments/assets/f1a83568-4aff-4a18-8c6c-07cd3da8aa52" />  
 
 ## 电商专业客服 RAG  
